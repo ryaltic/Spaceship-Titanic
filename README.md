@@ -5,6 +5,7 @@ The purpose of this repository is to use machine learning in Python using the Sc
 
 ### Competition Link:
 https://www.kaggle.com/competitions/spaceship-titanic
+
 This repository relates to the Kaggle Spaceship Titanic competition
 
 ## Introduction to Problem and Background Information
