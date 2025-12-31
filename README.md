@@ -1,11 +1,11 @@
-# Spaceship-Titanic-Kaggle
-This repository relates to the Kaggle Spaceship Titanic competition
+# Spaceship-Titanic
 
 ## Purpose
 The purpose of this repository is to use machine learning in Python using the Sci-Kit Learn packages. This repository will help me refine my machine learning skills espically in Python and provided a end-to-end data science driven solution from reading in the data to uploading the results onto Kaggle as well as learn new techniques and skills about machine learning in Python. The goal of this competition is to get the highest accuracy score and my personal goal is to get an accuracy score above 0.80.
 
 ### Competition Link:
 https://www.kaggle.com/competitions/spaceship-titanic
+This repository relates to the Kaggle Spaceship Titanic competition
 
 ## Introduction to Problem and Background Information
 The spaceship competition is set in the future (year 2912), and an issue occurred where a bunch of passengers were transported to an alternate dimension while travelling in space. The goal is to help retrieve the lost passengers by using the records on the spaceship to predict whether someone was transported or not. The competition was graded on accuracy score and has a rolling leaderboard that is constantly updated.
